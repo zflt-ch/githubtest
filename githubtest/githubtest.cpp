@@ -6,6 +6,7 @@
 
 int main()
 {
+	int ff = 89;
     return 0;
 }
 
