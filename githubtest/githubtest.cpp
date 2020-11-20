@@ -1,4 +1,4 @@
-// githubtest.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌĞòµÄÈë¿Úµã¡£
+// githubtest.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
 //
 
 #include "stdafx.h"
@@ -6,6 +6,7 @@
 
 int main()
 {
+	//ç»„äº’ç›¸
 	int ff = 89;
     return 0;
 }
