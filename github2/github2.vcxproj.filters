@@ -29,10 +29,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="githubtest.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="y1.cpp">
+    <ClCompile Include="github2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
